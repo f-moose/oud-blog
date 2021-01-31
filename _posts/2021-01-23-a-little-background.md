@@ -19,9 +19,9 @@ _Side note - it's also a niffty excuse to try out some web technologies I've bee
 
 
 ### A little background.
-I'm not going to spend too much time writing about what would undoubtedly be an uninteresting tale which led to my picking up the oud. It would include an origins story where a little boy wakes up to sounds of Oum Kalthoum and Abdel Halim Hafez, where he would watch old Egyptian movies with his father and listen to stories grand Arabic musicians...  
+I'm not going to spend too much time writing about what would undoubtedly be an uninteresting tale that led to my picking up the oud.  
+... It would include an origins story where a little boy wakes up to sounds of Oum Kalthoum and Abdel Halim Hafez, where he would watch old Egyptian movies with his father and listen to stories about grand Arabic musicians...  
 _Fast. Fucking. Forward._  
-I'll spare y'all the agony and cut to the relevant bits to help give this blog a bit more context. 
 
 Roughly 4 years ago I had decided that I wanted to learn to play the Oud. I had some experience playing guitar and thought that picking up the oud would be a straightforward transition. Anywho, as luck would have it, Bubz (my dad) and I were scheduled to be in Egypt soon. I used this as an opportunity to do some research, source an oud from a reputable luthier and get shredding. Only two of those three things came to be. Whilst trawling the internet was informative, and finding an oud that fit my needs wasn't too much hassle, shredding on the thing was just not happenin'.  
 
