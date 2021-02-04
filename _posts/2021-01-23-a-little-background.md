@@ -23,13 +23,10 @@ I'm not going to spend too much time writing about what would undoubtedly be an 
 ... It would include an origins story where a little boy wakes up to sounds of Oum Kalthoum and Abdel Halim Hafez, where he would watch old Egyptian movies with his father and listen to stories about grand Arabic musicians...  
 _Fast. Fucking. Forward._  
 
-Roughly 4 years ago I had decided that I wanted to learn to play the Oud. I had some experience playing guitar and thought that picking up the oud would be a straightforward transition. Anywho, as luck would have it, Bubz (my dad) and I were scheduled to be in Egypt soon. I used this as an opportunity to do some research, source an oud from a reputable luthier and get shredding. Only two of those three things came to be. Whilst trawling the internet was informative, and finding an oud that fit my needs wasn't too much hassle, shredding on the thing was just not happenin'.  
+Roughly 4 years ago I had decided that I wanted to learn to play the Oud. I had some experience playing guitar and thought that picking up the oud would be straightforward enough. Anywho, as luck would have it, Bubz (my dad) and I were scheduled to be in Egypt soon. I used this as an opportunity to do some research, source an oud from a reputable luthier and start shredding. Only two of those three things came to be. Whilst trawling the internet was informative, and finding an oud that fit my needs wasn't too much hassle, shredding on the thing was just not happenin'.  
 
 It quickly became apparent that playing the oud the way one would play a guitar was not that right approach to take. Everything from tuning to hand positioning and technique felt almost alien. Whilst I had plenty of practice holding chords shapes and running through scale patterns, I struggled to even find the right notes on an oud.
 
-So yeah, I quickly became discouraged with my lack of progress. Somewhat unsurprisingly, the internet did not contain the same wealth of beginner tutorials and courses for oud as it does for guitar, which I'm ashamed to say led its temporary exile, sent away to a distant wardrobe somewhere.  
-Imprisoned, for a crime it did not commit. Innocent and alone. Waiting patiently to awake from its slumber. Like the majestic phoenix, and like the majestic phoenix... rise it did.  
-A spark which led to fiery blaze, ignited by the wise and mystical folk at Taqasim Music School.  
-With their tutelage I began their beginner Oud and Arabic music theory course and have not looked back since. It has re-kindled my excitement to learn and my joy to play. So yes, welcome. Welcome to the inner thoughts of a lvl. 1 string slinger on his quest to becoming an Oud Wizard.  
-
-Patience is highly recommended. 
+So yeah, I quickly became discouraged with my lack of progress.  
+I'm ashamed to say that this eventually led to the hiding my oud deep within a wardrobe somewhere for many years. A humble prison where it lay asleep, waiting patiently to awake from its slumber. But fear not, for wake it did my friends, when years later I happened upon a school based in central London which specialised in the teaching of all things oud. Amazing!  
+A small spark which led to fiery blaze, ignited by the wise and mystical folk at Taqasim Music School. With their tutelage I began the beginner Oud and Arabic music theory course and have been on a quest for oud mastery ever since. Patience is highly recommended.    
