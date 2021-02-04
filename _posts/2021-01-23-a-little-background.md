@@ -31,3 +31,5 @@ So yeah, I quickly became discouraged with my lack of progress. Somewhat unsurpr
 Imprisoned, for a crime it did not commit. Innocent and alone. Waiting patiently to awake from its slumber. Like the majestic phoenix, and like the majestic phoenix... rise it did.  
 A spark which led to fiery blaze, ignited by the wise and mystical folk at Taqasim Music School.  
 With their tutelage I began their beginner Oud and Arabic music theory course and have not looked back since. It has re-kindled my excitement to learn and my joy to play. So yes, welcome. Welcome to the inner thoughts of a lvl. 1 string slinger on his quest to becoming an Oud Wizard.  
+
+Patience is highly recommended. 
