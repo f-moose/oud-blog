@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "fMoose"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "What Wizardry is This. <br /> A roaming Dothraki who put down the blade and picked up the wood."
+  bio    : "What Wizardry is This. <br /> A roaming Dothraki who put down the blade and picked up the [wood](https://en.wikipedia.org/wiki/Oud#Names_and_etymology)."
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"

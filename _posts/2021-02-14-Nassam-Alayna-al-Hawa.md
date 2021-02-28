@@ -1,6 +1,6 @@
 ---
 title: "Fairouz - Nassam Alayna al-Hawa"
-date: 2021-02-04
+date: 2021-02-14
 header:
   image: /assets/images/a-little-background.jpg
 categories: 
@@ -11,7 +11,12 @@ tags:
   - Fairouz 
 ---
 ## tldr
-A'ite. My first proper recording. Playing along to a classic (one of that i've only just discovered). To listen to the track without my mumbo jumbo, [click here](https://www.youtube.com/watch?v=2zW1kdmGins&ab_channel=Fairuz-Topic)
+My recording of Nassam Alayna al-hawah played alongside the original track.  
+Recorded on Christmas day during the lockdown of 2020. A 'gift' for mum seeing as this is her favourite Fairouz song :) 
+
+Yallah, emshee! 
+
+Oh, by the by, a link to the original track should anyone wish to listen to it without my mumbo jumbo. [Sparkle sparkle](https://www.youtube.com/watch?v=2zW1kdmGins&ab_channel=Fairuz-Topic)
 
 
 ## Show time
@@ -20,8 +25,8 @@ A'ite. My first proper recording. Playing along to a classic (one of that i've o
 
 <br />
 
--Notes to self-  
- Generally speaking I'm quite happy with the way this came out. There are a few areas I think can be improved upon however, these include: 
+-Analysis-  
+ Generally speaking I'm quite happy with the way this came out. There are a few areas I think can I can improve upon however: 
 
 1. Incorrect notes. At times I accidentally hit a note on the wrong string or briefly lose my place in the song. 
 
@@ -33,6 +38,8 @@ A'ite. My first proper recording. Playing along to a classic (one of that i've o
 
 ### Bonus tingz
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDflpWIawLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDflpWIawLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <br />
+
+_P.S. My mind totes went blank around the 2:30 mark, lewl. Everything from that point onwards is improvised._
