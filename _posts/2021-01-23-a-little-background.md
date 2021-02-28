@@ -9,7 +9,7 @@ tags:
   - exposition 
 ---
 
-### Wagwan
+## Wagwan
 Alright. Okay. I think I'm finally ready to actually start writing. Let's. Make. Magic. 
 
 Welcome to my digital stream of consciousness (and good luck). 
@@ -19,7 +19,7 @@ What's going on exactly? Well, more than anything, this will be a platform to re
 _Side note - it's also a niffty excuse to try out some web technologies I've been curious to learn more about ;)_
 
 
-### A little background
+## A little background
 I'm not going to spend too much time writing about what would undoubtedly be an uninteresting tale that led to my picking up the oud.  
 ... It would include an origins story where a little boy wakes up to sounds of Oum Kalthoum and Abdel Halim Hafez, where he would watch old Egyptian movies with his father and listen to tales of grand Arabic musicians...  
 _Fast. Fucking. Forward._  
@@ -31,7 +31,7 @@ Whilst trawling the internet was informative, and finding an oud that fit my nee
 Somewhat unsurprisingly, the internet does not contain the same wealth of beginner tutorials and courses for oud as it does for guitar, so yeah, I quickly became discouraged with my lack of progress and as a result I'm ashamed to say that had led to the temporary banishment of my instrument. Sent away to a distant wardrobe somewhere to gather dust and become better acquainted with my obsolete DVD collection.  
 I always knew I would come back to the oud however, this was never meant to be a permanent sentence. 
 
-### Wrap it up...
+## Wrap it up...
 As the years passed it became increasingly difficult to ignore the ever-growing urge to return to the oud. I finally began to feel like I was in the right headspace to take music lessons more seriously, which is when I happened upon the kind and mystical folk at Taqasim Music School.  
 I signed up to their beginner Oud and Arabic music theory course and began my journey in earnest. With their tutelage I began to unlock the secrets of the oud and Middle Eastern music. I've learned an incredible amount in a short space of time and I'm infinitely excited to see where this path leads. 
 
