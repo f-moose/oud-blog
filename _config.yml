@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: WWiT
+title: The Eolian
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "fMoose"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "What Wizardry is This. <br /> A roaming Dothraki who put down the blade and picked up the [wood](https://en.wikipedia.org/wiki/Oud#Names_and_etymology)."
+  bio    : "Just try'na earn my silver talent pipes innit."
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
