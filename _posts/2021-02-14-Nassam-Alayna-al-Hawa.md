@@ -8,7 +8,8 @@ categories:
 tags:
   - Song   
   - Upper-Beginner 
-  - Fairouz 
+  - Fairouz
+  - Kurd 
 ---
 ## tldr
 My recording of Nassam Alayna al-hawah played alongside the original track.  
